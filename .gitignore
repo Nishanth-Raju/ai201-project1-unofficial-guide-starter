@@ -18,3 +18,11 @@ chroma/
 
 # macOS
 .DS_Store
+
+# Saved CodePath course/assignment page (not part of the project)
+Show (Project)*.htm
+Show (Project)*_files/
+
+# Raw browser saves used to build the corpus — intermediate input, not deliverables.
+# The processed corpus (documents/*.txt) IS tracked.
+documents/manual/
